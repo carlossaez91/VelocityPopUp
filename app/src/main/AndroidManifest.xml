@@ -23,6 +23,7 @@
         </activity>
 
 
+        <receiver android:name=".MyBroadcastReceiver" />
     </application>
 
 </manifest>

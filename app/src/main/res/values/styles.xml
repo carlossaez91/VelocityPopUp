@@ -1,15 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Definir el tema sin ActionBar -->
-    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Personalizar los colores aquí -->
-    </style>
 
-    <!-- Definir el tema de la aplicación -->
-    <style name="Theme.VelocityPopUp" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Personalizar los colores aquí -->
-    </style>
-    <style name="popup_animation">
-        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
-        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
-    </style>
+    <style name="popup_animation"></style>
 </resources>
